@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "DefaultConnection"
+    },
+    "appInsights1": {
+      "type": "appInsights",
+      "connectionId": null
+    },
+    "mssql2": {
+      "type": "mssql",
+      "connectionId": "PrincipalContext"
+    },
+    "secrets1": {
+      "type": "secrets"
+    },
+    "mssql3": {
+      "type": "mssql",
+      "connectionId": "DietaContext"
+    },
+    "mssql4": {
+      "type": "mssql",
+      "connectionId": "NivelContext"
+    },
+    "mssql5": {
+      "type": "mssql",
+      "connectionId": "ProgresoContext"
+    },
+    "mssql6": {
+      "type": "mssql",
+      "connectionId": "RutinaContext"
+    }
+  }
+}

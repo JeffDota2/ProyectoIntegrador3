@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "mssql4": {
+      "restored": true,
+      "restoreTime": "2020-08-19T22:32:00.308494Z"
+    },
+    "mssql3": {
+      "restored": true,
+      "restoreTime": "2020-08-19T22:30:00.7523661Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2020-07-17T19:39:24.5997681Z"
+    },
+    "mssql2": {
+      "restored": true,
+      "restoreTime": "2020-07-13T03:41:45.1208801Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-07-12T22:42:50.2231093Z"
+    },
+    "mssql6": {
+      "restored": true,
+      "restoreTime": "2020-08-19T22:37:23.5795166Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2020-07-12T22:45:57.0038005Z"
+    },
+    "mssql5": {
+      "restored": true,
+      "restoreTime": "2020-08-19T22:35:59.6144609Z"
+    }
+  },
+  "parameters": {}
+}
